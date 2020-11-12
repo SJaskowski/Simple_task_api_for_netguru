@@ -1,6 +1,4 @@
-Superuser credentials:
-email: test@anulujkredyt.pl
-password: qwerty
-
-Run with docker-compose up
-it will run unittest and start server at 127.0.0.1:8000
+There is simple documentation on 127.0.0.1:8000/
+There are some basic test, whole app was test with postmen.
+Most of the magic happens in Serializers.
+To run just use docker-compose up, firstly it will run unittest and then build app on 127.0.0.1:8000

@@ -25,7 +25,7 @@ SECRET_KEY = '^npy2g#30@gh&^uk_qnm=013j7&)c3vd9&kqdm^0+02yn1h013'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['netguru-szymon-jaskowski.herokuapp.com']
 
 
 # Application definition
